@@ -1,0 +1,5 @@
+## ipython
+**/.ipynb_checkpoint/
+
+# .bak files
+**/*.bak
